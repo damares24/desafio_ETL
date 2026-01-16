@@ -59,14 +59,16 @@ Esse arquivo contém todas as colunas originais mais a coluna mensagem, pronta p
 
 - Ambiente virtual (venv)
 
-## 📁 Estrutura do Projeto Desafio
+## 📁 Estrutura do Projeto 
+```
+Desafio/
 ├── usuarios.csv 
 ├── mensagens_personalizadas.csv 
 ├── main.py 
 ├── .env 
 ├── .gitignore 
 └── README.md
-
+```
 ## 🔐 Variáveis de Ambiente
 
 A chave da OpenAI é armazenada em um arquivo .env para maior segurança.
