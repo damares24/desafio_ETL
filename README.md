@@ -1,10 +1,10 @@
-📊 Projeto ETL – Mensagens Personalizadas para Clientes Bancários
+#📊 Projeto ETL – Mensagens Personalizadas para Clientes Bancários
 
 Este projeto foi desenvolvido como parte do Bootcamp Santander 2025 – Ciência de Dados com Python, com o objetivo de praticar o fluxo ETL (Extração, Transformação e Carga) utilizando Python.
 
 O sistema lê dados de clientes a partir de um arquivo CSV, gera mensagens personalizadas para cada usuário (utilizando IA quando disponível) e salva o resultado em um novo arquivo CSV.
 
-🧠 Objetivo do Projeto
+##🧠 Objetivo do Projeto
 
 Demonstrar, de forma prática, o funcionamento de um pipeline ETL, focando no fluxo de dados e não na dependência de uma API específica.
 
